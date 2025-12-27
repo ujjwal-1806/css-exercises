@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+p {
+  background-color: LightPink;
+  font-family: "Verdana", "DejaVu Sans", sans-sarif;
+}
+
+#number-2 {
+  color: blue;
+  font-size: 36px;
+}
+.adjust-font-size {
+  font-size: 24px;
+}
+#number-4 {
+  font-weight: bold;
+  font-size: 24px;
+  background-color: lightGreen;
+}
+
