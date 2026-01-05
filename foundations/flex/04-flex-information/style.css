@@ -1,5 +1,21 @@
+/* My solution */
+.header {
+  display: flex;
+  justify-content: center;
+  margin: 32px 0;
+}
+.content-container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+.content {
+  max-width: 200px;
+  text-align: center;
+}
+
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 img {
